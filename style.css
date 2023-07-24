@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo, #p1, #p2, #p3{
+    position: absolute;
+    font-family: Niramit, sans-serif;
+    color: white;
+}
+
+#logo{
+    background: url('./img/bg.jpg');
+}
+#p3{
+    color: rgb(18, 117, 163);
+    background-color: white;
+}
+#d1{
+    position: relative;
+    display: grid;
+    justify-items: center;
+    background-color: #f8f8f8;
+}
+#p4, .p6{
+    font-weight: 500;
+}
+#p4, #p5{
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-family: Niramit, sans-serif;
+    text-align: center;
+}
+#p5, .p7{
+    color: #585858;
+}
+#g1{
+    background-color: #f8f8f8;
+}
+.g111{
+    position: relative;
+}
+.gm{
+    position: absolute;
+}
+.p6, .p7, .p8 , .p91 , .p11{
+    font-family: Niramit, sans-serif;
+}
+.p8{
+    color: rgb(15, 145, 171);
+}
+.p9{
+    background-image: linear-gradient(to left, lightblue , blue);
+    color: white;
+}
+.d111{
+    position: relative;
+}
+.gm1{
+    position: absolute;
+}
+.p10{
+    font-family: "Lexend Deca", sans-serif;
+    color: #005ad5;
+}
+.p11{
+    color: #585858;
+}
+.foo{
+    background-image: linear-gradient(to left, rgb(10, 74, 97) , rgb(19, 101, 109));
+    color: white;
+}
+
+
+
+
+
+  
+
+
+
+  
+
+  
